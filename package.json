@@ -1,0 +1,23 @@
+{
+  "name": "js-and-express-js-full-course-backend-full-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FavourEffiong/node-js-and-express-js-full-course-backend-full-stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FavourEffiong/node-js-and-express-js-full-course-backend-full-stack/issues"
+  },
+  "homepage": "https://github.com/FavourEffiong/node-js-and-express-js-full-course-backend-full-stack#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "loadash": "^1.0.0"
+  }
+}
